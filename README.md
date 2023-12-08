@@ -1,6 +1,20 @@
-<h2 align="left">Hi 👋! My name is Rohit Tiwari and I'm a MERN developer from India</h2>
+<h1 align="center">Hi 👋, I'm Rohit Tiwari</h1>
+<h3 align="center">Coder | Reader | Gamer</h3>
 
 ###
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohit968&label=Profile%20views&color=0e75b6&style=flat" alt="rohit968" /> </p>
+
+- 🌱 I’m currently learning **React JS**
+
+- 👨‍💻 All of my projects are available at [https://rohit968.github.io](https://rohit968.github.io)
+
+- 💬 Ask me about **MERN**
+
+- 📫 How to reach me **rohit.tiwari968@gmail.com**
+
+- ⚡ Fun fact **A MERN stack developer is like a superhero – fighting bugs in four dimensions!**
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rohit968&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
